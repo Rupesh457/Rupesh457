@@ -1,12 +1,12 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.Youtube.com)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-RupeshDeveloper-red)](https://www.Youtube.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Rupesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupesh-mahajan-8b169b232/)](https://www.linkedin.com/in/rupesh-mahajan-8b169b232/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18258450/rupesh-mahajan)
+[![Website Badge](https://img.shields.io/badge/WebSite-Rupesh-green)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Rupesh-yellow)](https://stackoverflow.com/users/18258450/rupesh-mahajan)
 
 I'm
-Full Stack Solution Architect
+Full Stack Developers
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
